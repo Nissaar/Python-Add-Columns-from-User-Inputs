@@ -1,2 +1,3 @@
 # Python-Create-Table-from-User-Inputs
-Script to Create table for MySQL taking everything as input from the user
+Script to Add Columns to MySQL table taking input from the user.
+It asks the user how many columns to be created and will prompt the user to input the name and datatype of the columns.
